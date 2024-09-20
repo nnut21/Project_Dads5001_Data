@@ -6,7 +6,7 @@ This dataset is sourced from Kaggle and provides data on the causes of deaths ar
 - Author: Sourav Banerjee
 - Link: [Kaggle - Cause of Deaths Around the World](https://www.kaggle.com/datasets/iamsouravbanerjee/cause-of-deaths-around-the-world)
 - License: Please check Kaggle for specific license details.
-- 
+  
 ## Dataset Source
 
 This dataset is sourced from Kaggle and contains annual data on cause of death numbers.
