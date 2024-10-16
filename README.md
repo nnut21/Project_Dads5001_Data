@@ -3927,7 +3927,6 @@ df_Main_data.head()
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Death Cause Analysis
-- <a href="Markdown/Death_Cause_Analysis.md" target="_blank">Death Cause Analysis</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
