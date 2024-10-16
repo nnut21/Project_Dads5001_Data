@@ -4067,60 +4067,69 @@ ___
 ### Detail of Event during 1990 - 2019
 
 Events That Increased Mortality Rates
-1. **HIV/AIDS Epidemic**: 1990 - Throughout the 1990s, particularly in Africa and Asia.
+
+1. เหตุการณ์ที่ทำให้มีผู้เสียชีวิตเพิ่มขึ้น **การแพร่ระบาดของ HIV/AIDS**: พ.ศ. 2533 (1990) - ตลอดทศวรรษ 1990 โดยเฉพาะในแอฟริกาและเอเชีย 
  - [WHO HIV/AIDS page](https://www.who.int/health-topics/hiv-aids#tab=tab_1)
  - [40 Years of AIDS](https://www.ucsf.edu/news/2021/06/420686/40-years-aids-timeline-epidemic)
-2. **Malaria Outbreak in Africa**: 1990s and 2000s - The African region experienced high malaria mortality rates until the distribution of bed nets and antimalarial medications helped reduce deaths. [WHO Malaria Overview](https://www.who.int/health-topics/malaria)
-3. **Yugoslav Wars**: 1991-2001 - Conflicts and civil wars in Yugoslavia resulted in numerous fatalities.[BBC's Balkans Conflict Overview](https://www.bbc.com/news/world-europe-17632399)
-4. **Rwandan Genocide**: 1994 - This event led to over 800,000 deaths within a few months.[UN - Rwanda Genocide](https://www.un.org/en/preventgenocide/rwanda/education/rwandagenocide.shtml)
-5. **Food Shortage in North Korea**: 1994-1998 - Severe food shortages in North Korea resulted in significant loss of life due to famine.[Council on Foreign Relations - North Korea Famine](https://www.cfr.org/backgrounder/north-korea-famine)
-6. **Kobe Earthquake, Japan**: 1995 - Claimed the lives of over 6,000 people.[1995 Kobe Earthquake](https://factsanddetails.com/japan/cat26/sub160/item863.html)
-7. **Sierra Leone Civil War**: 1991-2002 - The violence from the civil war caused many deaths and displaced persons.[Sierra Leone Civil War](https://www.blackpast.org/global-african-history/sierra-leone-civil-war-1991-2002/)
-8. **Tuberculosis (TB) Resurgence**: Throughout the 1990s - TB re-emerged as a global health threat in many countries.[Tuberculosis](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-024-09079-5)
-9. **War in Afghanistan**: 2001-Present - Ongoing conflict in Afghanistan has resulted in continuous casualties from fighting and airstrikes.[BBC - War in Afghanistan](https://www.bbc.com/news/world-south-asia-11451718)
-10. **Indian Ocean Earthquake and Tsunami**: 2004 - Claimed over 230,000 lives across several countries.[Tsunami Report](https://www.britannica.com/event/Indian-Ocean-tsunami-of-2004)
-11. **Pakistan Earthquake**: 2005 - A major earthquake resulted in approximately 80,000 deaths in Pakistan.[2005 Pakistan Earthquake](https://www.britannica.com/event/Kashmir-earthquake-of-2005)
-12. **Iraq War**: 2003-2011 - Wars and conflicts in Iraq led to significant mortality.[Iraq War](https://www.britannica.com/event/Iraq-War)
-13. **Cyclone Nargis in Myanmar**: 2008 - The cyclone resulted in over 130,000 deaths in Myanmar.[Cyclone Nargis](https://reliefweb.int/report/myanmar/myanmar-cyclone-nargis-2008-facts-and-figures#:~:text=Facts%20and%20figures%20On%202%20May%202008%2C%20Cyclone,37%20townships%20were%20significantly%20affected%20by%20the%20cyclone.)
-14. **H1N1 Influenza**: 2009 - The H1N1 virus outbreak resulted in global fatalities.[H1N1 Pandemic](https://www.britannica.com/event/influenza-pandemic-H1N1-of-2009/Pandemic-status-and-response)
-15. **SARS Epidemic**: 2002-2003 - The SARS virus caused several hundred deaths worldwide.[WHO - SARS](https://www.who.int/health-topics/severe-acute-respiratory-syndrome#tab=tab_1)
-16. **Syrian Civil War**: 2011-Present - The conflict in Syria has resulted in numerous fatalities.[UNHCR - Syrian Refugee Crisis](https://www.unhcr.org/syria-emergency.html)
-17. **Hurricane Katrina**: 2005 - The devastating hurricane in the United States caused significant loss of life and damage.[Hurricane Katrina](https://www.britannica.com/event/Hurricane-Katrina#:~:text=Hurricane%20Katrina%2C%20tropical%20cyclone%20that%20struck%20the%20southeastern,percent%20between%20the%20fall%20of%202005%20and%202011.)
-18. **Wildfires in Russia**: 2010 - Wildfires and the subsequent heatwave led to numerous respiratory-related deaths.[Russia Wildfires](https://reliefweb.int/disaster/wf-2010-000147-rus#:~:text=Unusual%20and%20long%20heat%20waves%20with%20temperatures%20peaking,of%20land%20and%20killing%20more%20than%2050%20people.)
-19. **Haiti Earthquake**: 2010 - One of the deadliest earthquakes, resulting in over 200,000 deaths.[Haiti Earthquake](https://www.britannica.com/event/2010-Haiti-earthquake)
-20. **Dengue Fever Outbreak in Southeast Asia**: 2010-2019 - Resulted in significant fatalities, especially in the Philippines and Vietnam.[Dengue](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9848297/)
-21. **Famine in Africa**: Particularly in Somalia, 2011 - Resulted in tens of thousands of deaths due to severe food shortages.[Somalia Famine](https://charityandsecurity.org/humanitarian-safeguards/somalia-2011-famine-and-its-response/#:~:text=The%202011%20Famine%20Following%20months%20of%20drought%2C%20rising,Lower%20Shabelle%2C%20were%20experiencing%20famine%20in%20July%202011.)
-22. **Heatwave in Europe**: 2013 - The heatwave caused deaths related to high temperatures, especially in France and Germany.[Heatwaves](https://academic.oup.com/eurpub/article/16/6/592/587672)
-23. **Ebola Outbreak**: 2014-2016 - A major outbreak in West Africa resulted in tens of thousands of deaths.[Ebola](https://www.sciencedirect.com/science/article/pii/S1876034120304275)
-24. **Nepal Earthquake**: 2015 - A major earthquake resulted in over 9,000 deaths.[Nepal Earthquake](https://www.britannica.com/topic/Nepal-earthquake-of-2015)
-25. **Dengue Fever Epidemic**: Throughout the 2010s - The dengue outbreak in Asia and South America resulted in numerous fatalities.[WHO - Dengue](https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue)
+2. **การระบาดของไข้มาลาเรียในแอฟริกา**: ทศวรรษ 1990 และ 2000 - ภูมิภาคแอฟริกาประสบปัญหาอัตราการตายจากมาลาเรียสูง จนกระทั่งมีการกระจายการใช้มุ้งและยาต้านมาลาเรียที่ช่วยลดจำนวนการเสียชีวิต [WHO Malaria Overview](https://www.who.int/health-topics/malaria)
+3. **สงครามยูโกสลาเวีย**: พ.ศ. 2534-2544 (1991-2001) - ความขัดแย้งและสงครามกลางเมืองในยูโกสลาเวีย ส่งผลให้มีผู้เสียชีวิตจำนวนมาก[BBC's Balkans Conflict Overview](https://www.bbc.com/news/world-europe-17632399)
+4. **การฆ่าล้างเผ่าพันธุ์ในรวันดา**: พ.ศ. 2537 (1994) - เหตุการณ์นี้ทำให้มีผู้เสียชีวิตกว่า 800,000 คนภายในเวลาไม่กี่เดือน [UN - Rwanda Genocide](https://www.un.org/en/preventgenocide/rwanda/education/rwandagenocide.shtml)
+5. **ภาวะขาดแคลนอาหารในเกาหลีเหนือ**: พ.ศ. 2537-2541 (1994-1998) - การขาดแคลนอาหารอย่างรุนแรงในเกาหลีเหนือทำให้ประชากรจำนวนมากเสียชีวิตจากภาวะอดอยาก[Council on Foreign Relations - North Korea Famine](https://www.cfr.org/backgrounder/north-korea-famine)
+6. **แผ่นดินไหวในโกเบ ประเทศญี่ปุ่น**: พ.ศ. 2538 (1995) - คร่าชีวิตผู้คนกว่า 6,000 คน [1995 Kobe Earthquake](https://factsanddetails.com/japan/cat26/sub160/item863.html)
+7. **สงครามกลางเมืองในเซียร์ราลีโอน**: พ.ศ. 2534-2545 (1991-2002) - ความรุนแรงจากสงครามกลางเมืองส่งผลให้มีผู้เสียชีวิตและผู้พลัดถิ่นจำนวนมาก [Sierra Leone Civil War](https://www.blackpast.org/global-african-history/sierra-leone-civil-war-1991-2002/)
+8. **การแพร่ระบาดของวัณโรค (TB)**: ตลอดทศวรรษ 1990 - วัณโรคกลับมาแพร่ระบาดในหลายประเทศทั่วโลก [Tuberculosis](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-024-09079-5)
+9. **สงครามอัฟกานิสถาน**: พ.ศ. 2544-ปัจจุบัน (2001-ปัจจุบัน) - ความขัดแย้งที่ยืดเยื้อในอัฟกานิสถานทำให้มีผู้เสียชีวิตจากการสู้รบและการโจมตีทางอากาศอย่างต่อเนื่อง [BBC - War in Afghanistan](https://www.bbc.com/news/world-south-asia-11451718)
+10. **แผ่นดินไหวและสึนามิในมหาสมุทรอินเดีย**: พ.ศ. 2547 (2004) - คร่าชีวิตผู้คนกว่า 230,000 คนในหลายประเทศ [Tsunami Report](https://www.britannica.com/event/Indian-Ocean-tsunami-of-2004)
+11. **แผ่นดินไหวในปากีสถาน**: พ.ศ. 2548 (2005) - แผ่นดินไหวขนาดใหญ่ทำให้มีผู้เสียชีวิตประมาณ 80,000 คนในปากีสถาน [2005 Pakistan Earthquake](https://www.britannica.com/event/Kashmir-earthquake-of-2005)
+12. **สงครามอิรัก**: พ.ศ. 2546-2554 (2003-2011) - สงครามและความขัดแย้งในอิรัก ส่งผลให้มีการเสียชีวิตเป็นจำนวนมาก [Iraq War](https://www.britannica.com/event/Iraq-War)
+13. **ภัยพิบัติไซโคลนนาร์กีสในพม่า**: พ.ศ. 2551 (2008) - พายุไซโคลนส่งผลให้มีผู้เสียชีวิตกว่า 130,000 คนในพม่า [Cyclone Nargis](https://reliefweb.int/report/myanmar/myanmar-cyclone-nargis-2008-facts-and-figures#:~:text=Facts%20and%20figures%20On%202%20May%202008%2C%20Cyclone,37%20townships%20were%20significantly%20affected%20by%20the%20cyclone.)
+14. **ไข้หวัดใหญ่ H1N1**: พ.ศ. 2552 (2009) - การแพร่ระบาดของไวรัส H1N1 ส่งผลให้มีผู้เสียชีวิตทั่วโลก [H1N1 Pandemic](https://www.britannica.com/event/influenza-pandemic-H1N1-of-2009/Pandemic-status-and-response)
+15. **การแพร่ระบาดของโรค SARS**: พ.ศ. 2545-2546 (2002-2003) - ไวรัส SARS ส่งผลให้มีผู้เสียชีวิตหลายร้อยคนทั่วโลก [WHO - SARS](https://www.who.int/health-topics/severe-acute-respiratory-syndrome#tab=tab_1)
+16. **สงครามกลางเมืองในซีเรีย**: พ.ศ. 2554-ปัจจุบัน (2011-ปัจจุบัน) - ความขัดแย้งในซีเรียทำให้มีผู้เสียชีวิตเป็นจำนวนมาก [UNHCR - Syrian Refugee Crisis](https://www.unhcr.org/syria-emergency.html)
+17. **พายุเฮอริเคนแคทรีนา**: พ.ศ. 2548 (2005) - พายุเฮอริเคนที่ทำลายล้างบริเวณสหรัฐอเมริกา ส่งผลให้มีการเสียชีวิตและความเสียหายอย่างมาก[Hurricane Katrina](https://www.britannica.com/event/Hurricane-Katrina#:~:text=Hurricane%20Katrina%2C%20tropical%20cyclone%20that%20struck%20the%20southeastern,percent%20between%20the%20fall%20of%202005%20and%202011.) 
+18. **ไฟป่าในรัสเซีย**: พ.ศ. 2553 (2010) - ไฟป่าและคลื่นความร้อนที่ตามมาส่งผลให้มีผู้เสียชีวิตจำนวนมากจากปัญหาทางเดินหายใจ [Russia Wildfires](https://reliefweb.int/disaster/wf-2010-000147-rus#:~:text=Unusual%20and%20long%20heat%20waves%20with%20temperatures%20peaking,of%20land%20and%20killing%20more%20than%2050%20people.)
+19. **แผ่นดินไหวในไฮติ**: พ.ศ. 2553 (2010) - หนึ่งในเหตุการณ์แผ่นดินไหวที่ทำลายล้างมากที่สุด ส่งผลให้มีผู้เสียชีวิตกว่า 200,000 คน [Haiti Earthquake](https://www.britannica.com/event/2010-Haiti-earthquake)
+20. **การระบาดของโรคไข้เลือดออกในภูมิภาคเอเชียตะวันออกเฉียงใต้**: พ.ศ. 2553-2562 (2010-2019) - ส่งผลให้มีผู้เสียชีวิตจำนวนมาก โดยเฉพาะในฟิลิปปินส์และเวียดนาม [Dengue](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9848297/)
+21. **ความอดอยากในแอฟริกา**: โดยเฉพาะในโซมาเลีย พ.ศ. 2554 (2011) - ส่งผลให้มีผู้เสียชีวิตหลายหมื่นคนเนื่องจากการขาดแคลนอาหารอย่างรุนแรง[Somalia Famine](https://charityandsecurity.org/humanitarian-safeguards/somalia-2011-famine-and-its-response/#:~:text=The%202011%20Famine%20Following%20months%20of%20drought%2C%20rising,Lower%20Shabelle%2C%20were%20experiencing%20famine%20in%20July%202011.) 
+22. **คลื่นความร้อนในยุโรป**: พ.ศ. 2556 (2013) - คลื่นความร้อนทำให้มีผู้เสียชีวิตจากโรคที่เกี่ยวกับอุณหภูมิสูง โดยเฉพาะในฝรั่งเศสและเยอรมนี [Heatwaves](https://academic.oup.com/eurpub/article/16/6/592/587672)
+23. **การแพร่ระบาดของโรค Ebola**: พ.ศ. 2557-2559 (2014-2016) - การระบาดครั้งใหญ่ในแอฟริกาตะวันตก ส่งผลให้มีผู้เสียชีวิตนับหมื่นคน [Ebola](https://www.sciencedirect.com/science/article/pii/S1876034120304275)
+24. **แผ่นดินไหวในเนปาล**: พ.ศ. 2558 (2015) - แผ่นดินไหวครั้งใหญ่ที่ทำให้มีผู้เสียชีวิตกว่า 9,000 คน [Nepal Earthquake](https://www.britannica.com/topic/Nepal-earthquake-of-2015)
+25. **การแพร่ระบาดของโรคไข้เลือดออก**: ตลอดทศวรรษ 2010 - การระบาดของไข้เลือดออกในภูมิภาคเอเชียและอเมริกาใต้ ทำให้มีผู้เสียชีวิตจำนวนมาก[WHO - Dengue](https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue)
+   
+##
+เหตุการณ์ที่ทำให้มีผู้เสียชีวิตลดลง
 
-Events That Decreased Mortality Rates
-1. **HIV/AIDS Prevention Campaign**: 1990-1999 - Campaigns promoting condom use and regular health checks, along with the development of antiretroviral drugs, helped reduce AIDS mortality rates in developed countries and some countries in Africa and Asia.[HIV/AIDS](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8363183/)
-2. **Expansion of Childhood Vaccination**: 1990s - Widespread vaccination against measles, polio, and pneumonia significantly reduced child mortality rates from infectious diseases.[Immunization](https://publications.aap.org/pediatrics/article/150/3/e2021056013/188495/Impact-of-Routine-Childhood-Immunization-in?autologincheck=redirected)
-3. **Access to Antiretroviral Drugs for HIV/AIDS**: 2000-2009 - Countries began to widely access antiretroviral medications, particularly in Africa, leading to a decrease in mortality from this disease.[HIV Update](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3078828/)
-4. **Development of Malaria Vaccines**: 2000-2009 - The use of bed nets and insecticides, along with access to antimalarial drugs, helped reduce malaria mortality in Africa.[WHO Malaria Report](https://www.who.int/news-room/fact-sheets/detail/malaria)
-5. **Use of Anticoagulants and Treatments for Cardiovascular Diseases**: 2000-2009 - Advances in medical technology and treatment for heart diseases reduced mortality rates from cardiovascular diseases in many countries.[Cardiovascular](https://pubmed.ncbi.nlm.nih.gov/19571765/)
-6. **Use of Influenza Vaccines and Antiviral Medications**: 2000-2009 - Influenza vaccines and access to antiviral medications improved the control of influenza outbreaks, reducing mortality.[Flu](https://pubmed.ncbi.nlm.nih.gov/20718130/)
-7. **Anti-Smoking Campaigns**: 2010-2019 - Many countries initiated anti-smoking policies, helping reduce deaths from lung-related diseases such as lung cancer and chronic obstructive pulmonary disease (COPD).[WHO - Tobacco](https://www.who.int/campaigns/world-no-tobacco-day/world-no-tobacco-day-2019/about-the-campaign)
-8. **Improved Access to Cancer Treatments**: 2010-2019 - Chemotherapy and new technology treatments reduced cancer mortality in developed countries.[Cancer Treatments](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8366192/)
-9. **Traffic Safety Campaigns**: 2010-2019 - Campaigns promoting seatbelt use, helmet use, and speed limit laws in many countries helped reduce traffic fatalities.[Road Safety](https://www.sciencedirect.com/science/article/pii/S0386111211000045)
-10. **Development of HPV Vaccines**: 2007-2009 - Vaccination against the HPV virus, which causes cervical cancer, helped reduce cervical cancer mortality rates in many countries.[HPV](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8828558/)
-11. **Access to Clean Drinking Water**: 2000-2010 - Clean water and sanitation projects in many countries, especially in Africa and Asia, significantly reduced mortality rates from waterborne diseases, such as diarrhea.
-   - [INDIA Water Portal](https://www.indiawaterportal.org/health-and-sanitation/sanitation/2010-unwater-global-annual-assessment-sanitation-and-drinkingwater-glaas)
-   - [Our World in Data](https://ourworldindata.org/diarrheal-diseases)
+1. **การรณรงค์เรื่องการป้องกัน HIV/AIDS**: พ.ศ. 2533-2542 (1990-1999) - การรณรงค์ใช้ถุงยางอนามัยและการตรวจเช็คสุขภาพอย่างสม่ำเสมอ รวมถึงการพัฒนายาต้านไวรัส ช่วยลดอัตราการเสียชีวิตจากโรคเอดส์ในประเทศพัฒนาแล้วและในบางประเทศในแอฟริกาและเอเชีย [HIV/AIDS](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8363183/)
+2. **การขยายการฉีดวัคซีนในเด็ก**: ทศวรรษ 1990 - การฉีดวัคซีนป้องกันโรคหัด โปลิโอ และโรคปอดบวมอย่างแพร่หลายทั่วโลก ส่งผลให้อัตราการเสียชีวิตในเด็กจากโรคติดเชื้อลดลงอย่างมีนัยสำคัญ [Immunization](https://publications.aap.org/pediatrics/article/150/3/e2021056013/188495/Impact-of-Routine-Childhood-Immunization-in?autologincheck=redirected)
+3. **การเข้าถึงยาต้านไวรัสสำหรับโรค HIV/AIDS**: พ.ศ. 2543-2552 (2000-2009) - ประเทศต่างๆ เริ่มเข้าถึงยาต้านไวรัสในวงกว้าง โดยเฉพาะในแอฟริกา ทำให้อัตราการเสียชีวิตจากโรคนี้ลดลง [HIV Update](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3078828/)
+4. **การพัฒนาวัคซีนโรคมาลาเรีย**: พ.ศ. 2543-2552 (2000-2009) - การใช้มุ้งและยาฆ่ายุง รวมถึงการเข้าถึงยารักษามาลาเรีย ช่วยลดการเสียชีวิตจากโรคนี้ในภูมิภาคแอฟริกา [WHO Malaria Report](https://www.who.int/news-room/fact-sheets/detail/malaria)
+5. **การใช้ยากันเลือดแข็งตัวและการรักษาหลอดเลือดหัวใจตีบ**: พ.ศ. 2543-2552 (2000-2009) - เทคโนโลยีทางการแพทย์และการรักษาโรคหัวใจและหลอดเลือดก้าวหน้าขึ้น ลดการเสียชีวิตจากโรคหัวใจและหลอดเลือดในหลายประเทศ [Cardiovascular](https://pubmed.ncbi.nlm.nih.gov/19571765/)
+6. **การใช้ยาและวัคซีนป้องกันไข้หวัดใหญ่**: พ.ศ. 2543-2552 (2000-2009) - วัคซีนไข้หวัดใหญ่และการเข้าถึงยาต้านไวรัส ทำให้การระบาดของไข้หวัดใหญ่สามารถควบคุมได้ดีขึ้น และลดการเสียชีวิตจากโรคนี้ [Flu](https://pubmed.ncbi.nlm.nih.gov/20718130/)
+7. **การรณรงค์ป้องกันการสูบบุหรี่**: พ.ศ. 2553-2562 (2010-2019) - หลายประเทศเริ่มดำเนินการนโยบายต่อต้านการสูบบุหรี่ ซึ่งช่วยลดการเสียชีวิตจากโรคที่เกี่ยวข้องกับปอด เช่น มะเร็งปอด และโรคปอดอุดกั้นเรื้อรัง[WHO - Tobacco](https://www.who.int/campaigns/world-no-tobacco-day/world-no-tobacco-day-2019/about-the-campaign) 
+8. **การเข้าถึงยารักษาโรคมะเร็งที่ดีขึ้น**: พ.ศ. 2553-2562 (2010-2019) - ยาเคมีบำบัดและการรักษาด้วยเทคโนโลยีใหม่ช่วยลดการเสียชีวิตจากโรคมะเร็งในประเทศพัฒนาแล้ว [Cancer Treatments](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8366192/)
+9. **การรณรงค์เรื่องความปลอดภัยทางจราจร**: พ.ศ. 2553-2562 (2010-2019) - การรณรงค์ใช้เข็มขัดนิรภัย หมวกกันน็อค และกฎหมายจำกัดความเร็วในหลายประเทศช่วยลดการเสียชีวิตจากอุบัติเหตุทางถนน[Road Safety](https://www.sciencedirect.com/science/article/pii/S0386111211000045)
+10. **การพัฒนาวัคซีน HPV**: พ.ศ. 2550-2552 (2007-2009) - การฉีดวัคซีนป้องกันไวรัส HPV ที่เป็นสาเหตุของมะเร็งปากมดลูก ช่วยลดอัตราการเสียชีวิตจากมะเร็งปากมดลูกในหลายประเทศ[HPV](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8828558/) 
+11. **การเข้าถึงน้ำดื่มที่สะอาด**: ทศวรรษ 2000-2010 - โครงการด้านน้ำดื่มสะอาดและสุขาภิบาลในหลายประเทศ โดยเฉพาะในแอฟริกาและเอเชีย ส่งผลให้อัตราการเสียชีวิตจากโรคติดต่อที่เกิดจากน้ำ เช่น โรคท้องร่วง ลดลงอย่างมาก
+- [INDIA Water Portal](https://www.indiawaterportal.org/health-and-sanitation/sanitation/2010-unwater-global-annual-assessment-sanitation-and-drinkingwater-glaas)
+- [Our World in Data](https://ourworldindata.org/diarrheal-diseases)
 
-Events in Thailand
-Events that Increased Mortality Rates:
-1. **HIV/AIDS Epidemic (1990s - Early 2000s)**: Thailand was heavily affected by the HIV/AIDS crisis in the 1990s before access to antiretroviral drugs began to reduce deaths in the following decade.[UNAIDS - Thailand](https://www.unaids.org/en/regionscountries/countries/thailand)
-2. **Indian Ocean Tsunami (2004)**: The tsunami that hit southern Thailand in 2004 resulted in approximately 5,400 deaths.[Tsunami Report](https://www.britannica.com/event/Indian-Ocean-tsunami-of-2004)
-3. **Severe Flooding in Thailand (2011)**: The massive flooding in central and northern Thailand resulted in hundreds of fatalities.[Thailand Floods](https://www.thaiwater.net/uploads/contents/current/2011/flood54Eng.html)
 
-Events that Decreased Mortality Rates:
-1. **Universal Health Coverage Scheme (2002)**: The introduction of the Universal Health Coverage scheme in 2002 improved access to healthcare services, resulting in a decrease in mortality from preventable and treatable diseases.[Thailand UHC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6560367/)
-2. **Reduction in Maternal and Infant Mortality Rates (2000s)**: Increased investments in maternal and infant health programs led to lower mortality rates.[WHO - Thailand UHC](https://www.who.int/news/item/09-05-2023-global-progress-in-tackling-maternal-and-newborn-deaths-stalls-since-2015--un)
-3. **Decrease in Malaria Deaths (2000s)**: Malaria prevention campaigns, especially in border areas, significantly reduced malaria-related deaths.[Malaria in Thailand](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6553898/)
-4. **Advances in Treatment and Prevention of Cardiovascular Diseases (1990s)**: Improved treatment methods and anti-smoking campaigns in the 2000s contributed to reduced mortality rates from cardiovascular diseases.[WHO - Cardiovascular Diseases](https://www.who.int/health-topics/cardiovascular-diseases)
+##
+เหตุการณ์ในประเทศไทย 
+
+เหตุการณ์ที่ทำให้มีอัตราการเสียชีวิตเพิ่มขึ้น: 
+
+1. **การระบาดของ HIV/AIDS (1990s - ต้น 2000s)** ประเทศไทยได้รับผลกระทบอย่างมากจากวิกฤต HIV/AIDS ในช่วงทศวรรษ 1990 ก่อนที่การเข้าถึงยาต้านไวรัสจะเริ่มลดจำนวนผู้เสียชีวิตลงในทศวรรษต่อมา [UNAIDS - Thailand](https://www.unaids.org/en/regionscountries/countries/thailand)
+2. **สึนามิในมหาสมุทรอินเดีย (2004)** สึนามิที่กระทบภาคใต้ของประเทศไทยในปี 2004 ทำให้มีผู้เสียชีวิตประมาณ 5,400 ราย [Tsunami Report](https://www.britannica.com/event/Indian-Ocean-tsunami-of-2004) 
+3. **น้ำท่วมใหญ่ในประเทศไทย (2011)** น้ำท่วมครั้งใหญ่ในภาคกลางและภาคเหนือของประเทศไทยส่งผลให้มีผู้เสียชีวิตหลายร้อยคน[Thailand Floods](https://www.thaiwater.net/uploads/contents/current/2011/flood54Eng.html)
+
+เหตุการณ์ที่ทำให้อัตราการเสียชีวิตลดลง: 
+
+1. **โครงการหลักประกันสุขภาพถ้วนหน้า (2002)** การแนะนำโครงการหลักประกันสุขภาพถ้วนหน้าในปี 2002 ทำให้ประชาชนเข้าถึงบริการสุขภาพได้มากขึ้น ส่งผลให้อัตราการเสียชีวิตลดลงจากโรคที่ป้องกันและรักษาได้ [Thailand UHC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6560367/)
+2. **การลดอัตราการเสียชีวิตของมารดาและทารก (2000s)** โครงการด้านสุขภาพของมารดาและทารกมีการลงทุนเพิ่มขึ้น ทำให้อัตราการเสียชีวิตลดลง[WHO - Thailand UHC](https://www.who.int/news/item/09-05-2023-global-progress-in-tackling-maternal-and-newborn-deaths-stalls-since-2015--un)
+3. **การลดการเสียชีวิตจากมาลาเรีย (2000s)** การรณรงค์ป้องกันมาลาเรียโดยเฉพาะในพื้นที่ชายแดน ช่วยลดการเสียชีวิตจากโรคมาลาเรียได้อย่างมาก [Malaria in Thailand](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6553898/)
+4. **การพัฒนาวิธีการรักษาและการป้องกันโรคหัวใจและหลอดเลือด (1990s)** ทำให้อัตราการเสียชีวิตจากโรคเหล่านี้ลดลง [WHO - Cardiovascular Diseases](https://www.who.int/health-topics/cardiovascular-diseases)
+5. **การรณรงค์ต่อต้านการสูบบุหรี่ (2000s)** การรณรงค์ต่อต้านการสูบบุหรี่และการออกกฎหมายควบคุมการสูบบุหรี่มีส่วนช่วยลดการเสียชีวิตที่เกี่ยวข้องกับการสูบบุหรี่
 
 <b>Make time line for the Event during 1990 - 2019</b>
 
@@ -4529,5 +4538,15 @@ fig.show()
 ในทางกลับกัน เหตุการณ์ทางธรรมชาติ เช่น แผ่นดินไหวและสึนามิในปี 2004 ทำให้จำนวนผู้เสียชีวิตเพิ่มขึ้นอย่างรวดเร็วในบางพื้นที่ ซึ่งเป็นการเตือนให้เห็นถึงความสำคัญของการเตรียมความพร้อมและระบบการป้องกันภัยพิบัติ
 
 การวิเคราะห์ข้อมูลเหล่านี้ไม่เพียงแค่แสดงให้เห็นถึงความสัมพันธ์ระหว่างอัตราการเสียชีวิตและเหตุการณ์ต่าง ๆ แต่ยังสามารถนำไปประยุกต์ใช้เพื่อป้องกันและแก้ไขปัญหาที่อาจเกิดขึ้นในอนาคตได้อย่างมีประสิทธิภาพ โดยการพัฒนานโยบายและกลยุทธ์ที่มุ่งเน้นการลดความเสี่ยงและการป้องกันการเกิดโรคในประชากรที่เปราะบาง
+
+##
+
+## Challenge
+
+1. ข้อมูลที่มีแสดงให้เห็นถึงแนวโน้มการเปลี่ยนแปลง แต่การหาสาเหตุหรือปัจจัยที่ส่งผลต่อการเปลี่ยนแปลงนั้นจำเป็นต้องหาข้อมูลและข่าวสารเพิ่มเติมเพื่อสนับสนุนและอธิบายผลลัพธ์ให้ชัดเจนยิ่งขึ้น
+2. ขั้นตอนการ Cleansing data และรวบรวมข้อมูลใช้เวลานาน เนื่องจากใช้ข้อมูลจากข้อมูลหลายชุด และต้องทำให้ข้อมูลสมบูรณ์พร้อมใช้งาน
+3. การเลือกประเภทของกราฟที่เหมาะสมกับข้อมูลที่ต้องการนำเสนอเป็นสิ่งสำคัญ จึงเป็นเรื่องท้าทายในการเลือกให้ตรงกับข้อมูลที่มี
+4. การทำนายแนวโน้มในอนาคตต้องอาศัยการศึกษาข้อมูลจากหลายด้าน ตัวอย่างเช่น การวิเคราะห์อัตราการตายจากโรคต้องอาศัยข้อมูลทางการแพทย์ ทำให้ต้องใช้เวลามากขึ้นในการเก็บรวบรวมข้อมูล
+5. เนื่องจากข้อมูลมีความกว้างขวาง ทำให้เกิดไอเดียในการวิเคราะห์ที่หลากหลาย จึงเป็นเรื่องยากในการกำหนดขอบเขตการวิเคราะห์ที่ชัดเจน ซึ่งอาจทำให้กระบวนการทำงานใช้เวลานานขึ้น
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
