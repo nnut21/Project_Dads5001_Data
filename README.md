@@ -356,7 +356,7 @@ Taiwan Population data for fill missing value.
     dtypes: float64(2), int64(1), object(6)
     memory usage: 17.6+ KB
 
-<b>Example data continent</b>
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
