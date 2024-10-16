@@ -55,8 +55,9 @@
 
 
 <!-- ABOUT THE PROJECT -->
+# overview
 
-## Data Source
+# dataset
 Sourced from Kaggle and contains age-related data.
 Age-related data.
 
@@ -356,7 +357,7 @@ Taiwan Population data for fill missing value.
     memory usage: 17.6+ KB
 
 <b>Example data continent</b>
-![png](Markdown/Import_Data_files/example_data_continent.png)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -784,8 +785,8 @@ DataFrame Info
     dtypes: float64(1), object(3)
     memory usage: 249.5+ KB
 
-Example data after convert year columns to rows<br />
-![png](Markdown/Import_Data_files/df_population_melted_sort.png)
+<br />
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -3963,9 +3964,68 @@ df_Main_data.head()
    
 การจัดกลุ่มปัจจัยเหล่านี้จะช่วยให้เราสามารถพิจารณาสาเหตุที่ทำให้ผู้คนเสียชีวิตได้มากที่สุด โดยเราจะนำมาจัดอันดับจากการเสียชีวิตที่เกิดจากแต่ละปัจจัย และจำแนกเป็นทวีปเพื่อให้เห็นภาพรวมของผลกระทบจากปัจจัยเสี่ยงต่างๆ ต่อปริมาณเสียชีวิตในแต่ละทวีป
 
-```markdown
-![Example Plot](Table/plot.png)
-```
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Total death(M)</th>
+      <th>Africa(%)</th>
+      <th>Americas(%)</th>
+      <th>Asia(%)</th>
+      <th>Europe(%)</th>
+      <th>Oceania(%)</th>
+    </tr>
+    <tr>
+      <th>Risk_Factor</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Chronic_Diseases</th>
+      <td>1066.30</td>
+      <td>10.08</td>
+      <td>13.42</td>
+      <td>55.33</td>
+      <td>20.63</td>
+      <td>0.54</td>
+    </tr>
+    <tr>
+      <th>Infectious_Diseases</th>
+      <td>264.96</td>
+      <td>46.09</td>
+      <td>3.75</td>
+      <td>48.81</td>
+      <td>1.18</td>
+      <td>0.17</td>
+    </tr>
+    <tr>
+      <th>Environmental_and_External Causes</th>
+      <td>72.13</td>
+      <td>17.57</td>
+      <td>15.53</td>
+      <td>55.59</td>
+      <td>11.01</td>
+      <td>0.31</td>
+    </tr>
+    <tr>
+      <th>Lifestyle-Related_Factors</th>
+      <td>57.01</td>
+      <td>22.12</td>
+      <td>11.51</td>
+      <td>52.08</td>
+      <td>13.97</td>
+      <td>0.32</td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 ![Heatmp](https://github.com/nnut21/Project_Dads5001_Data/blob/main/markdown/Continent.png)
 
@@ -4034,9 +4094,6 @@ ___
 ### **การเสียชีวิตจากโรคเรื้อรังในภูมิภาคเอเชียตะวันออกเฉียงเหนือ**
 
 ภูมิภาคเอเชียตะวันออกเฉียงเหนือมีประชากรที่มีความหลากหลายทางวัฒนธรรมและเศรษฐกิจ การศึกษาในครั้งนี้มุ่งเน้นไปที่การวิเคราะห์การเสียชีวิตจากโรคเรื้อรังในช่วงปี 1990 ถึง 2019 ซึ่งเป็นช่วงเวลาที่มีการเปลี่ยนแปลงทางการแพทย์และการพัฒนาสังคมอย่างมีนัยสำคัญ
-
-```markdown
-```
 
 ![Cause_of_Death](https://github.com/nnut21/Project_Dads5001_Data/blob/main/markdown/Cause%20of%20Death.png)
 
@@ -4268,11 +4325,11 @@ fig_decrease.show()
 
 ```
 
-![png](Markdown/Event_Analysis_files/Event_Duration_1990-2023_Single.png)
+![png](https://github.com/nnut21/Project_Dads5001_Data/blob/main/markdown/Event_Duration_1990-2023_Single.png)
 
-![png](Markdown/Event_Analysis_files/Event_Duration_1990-2023_Multi.png)
+![png](https://github.com/nnut21/Project_Dads5001_Data/blob/main/markdown/Event_Duration_1990-2023_Multi.png)
 
-![png](Markdown/Event_Analysis_files/Event_Decrease_1990_2023.png)
+![png](https://github.com/nnut21/Project_Dads5001_Data/blob/main/markdown/Event_Decrease_1990_2023.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -4332,8 +4389,8 @@ fig = px.line(hiv_by_year_continent, x='Year', y='HIV', color='Continent',
              title='HIV Deaths by Year and Continent')
 fig.show()
 ```
-![png](Markdown/Event_Analysis_files/HIV.png)
 
+![png](https://github.com/nnut21/Project_Dads5001_Data/blob/main/markdown/HIV.png)
 
 
 HIV นั้นถูกค้นพบครั้งแรกในช่วงปี 1980s และแพร่ระบาดไปทั่วโลก โดยเฉพาะอย่างยิ่ง ในแถบแอฟริกาตอนใต้ จากเหตุการณ์ดังกล่าวพบว่ากราฟในช่วงปี 1990s-2000s มีการเสียชีวิตจากโรค HIV เพิ่มขึ้น โดยเฉพาะในแถบแอฟริกา จึงทำให้ในช่วงปี 2000 - 2009 ได้มีการรณรงค์ให้ความรู้เกี่ยวกับการใช้ถุงยางอนามัยและการตรวจสุขภาพเป็นประจำช่วยลดอัตราการเสียชีวิตจากโรค HIV/AIDS ในหลายประเทศ โดยเฉพาะอย่างยิ่งในแถบแอฟริกา ซึ่งสอดคล้องกับกราฟสถิติการตายของโรค HIV ดังด้านบน
@@ -4358,7 +4415,7 @@ fig = px.line(df_rwanda_conflict, x='Year', y='Conflict_and_Terrorism',
 fig.show()
 ```
 
-![png](Markdown/Event_Analysis_files/Rwanda.png)
+![png](https://github.com/nnut21/Project_Dads5001_Data/blob/main/markdown/Rwanda.png)
 
 
 ในปี 1994 เกิดเหตุการณ์ฆ่าล้างเผ่าพันธุ์ซึ่งเกิดขึ้นจากความขัดแย้งทางชาติพันธุ์ระหว่างสองกลุ่มหลักในรวันดา เหตุการณ์นี้นำไปสู่การเสียชีวิตของประชาชนกว่า 800,000 คน ภายในระยะเวลาเพียง 100 วัน ส่งผลทำให้กราฟการเสียชีวิตจาก Conflict and Terrorism เพิ่มขึ้นอย่างมีนัยสำคัญในปี 1994 ดังกราฟข้างต้น
@@ -4387,7 +4444,7 @@ fig.show()
 ```
 
 
-![png](Markdown/Event_Analysis_files/Asia_Tsunami.png)
+![png](https://github.com/nnut21/Project_Dads5001_Data/blob/main/markdown/asia_tsunami.png)
 
 
 
@@ -4413,9 +4470,8 @@ plt.show()
 
 
     
-![png](Markdown/Event_Analysis_files/Event_Analysis_89_0.png)
+![png](https://github.com/nnut21/Project_Dads5001_Data/blob/main/markdown/Event_Analysis_89_0.png)
     
-
 
 ในวันที่ 26 ธันวาคม 2004 เกิดแผ่นดินไหวขนาด 9.1-9.3 แมกนิจูด นอกชายฝั่งของเกาะสุมาตรา ประเทศอินโดนีเซีย ทำให้เกิดคลื่นสึนามิขนาดใหญ่ที่ซัดเข้าถล่มชายฝั่งของหลายประเทศรอบมหาสมุทรอินเดีย ส่งผลให้มีผู้เสียชีวิตจำนวนมาก และสร้างความเสียหายทางทรัพย์สินอย่างมหาศาล เห็นได้ดังกราฟข้างต้น
 
@@ -4438,7 +4494,7 @@ fig = px.line(malaria_by_year_continent, x='Year', y='Malaria', color='Continent
              title='Malaria Deaths by Year and Continent')
 fig.show()
 ```
-![png](Markdown/Event_Analysis_files/Malaria.png)
+![png](https://github.com/nnut21/Project_Dads5001_Data/blob/main/markdown/Malaria.png)
 
 
 โรคมาลาเรียเป็นหนึ่งในโรคติดเชื้อที่ร้ายแรงที่สุดในโลก โดยเฉพาะในภูมิภาคเขตร้อนและกึ่งเขตร้อน ซึ่งแพร่เชื้อสู่มนุษย์ผ่านการกัดของยุงก้นปล่อง ช่วงปี 2000 - 2009 เป็นช่วงเวลาที่มีความก้าวหน้าอย่างมากในการพัฒนาวัคซีนมาลาเรีย แม้จะยังไม่สามารถป้องกันโรคได้อย่างสมบูรณ์ แต่การวิจัยและการทดสอบวัคซีน ก็ถือเป็นก้าวสำคัญที่ช่วยให้เกิดการพัฒนาในอนาคต เห็นได้จากกราฟข้างต้น ที่มีการลดลงของการเสียชีวิตของโรค Malaria ภายหลังช่วงปี 2009 เป็นต้นไป
@@ -4463,7 +4519,7 @@ fig = px.line(diarrheal_by_year_continent, x='Year', y='Diarrheal_Diseases', col
 fig.show()
 ```
 
-![png](Markdown/Event_Analysis_files/Diarrheal.png)
+![png](https://github.com/nnut21/Project_Dads5001_Data/blob/main/markdown/Diarrheal.png)
 
 
 ```python
@@ -4490,7 +4546,7 @@ fig = px.line(df_top_5, x='Year', y='Diarrheal_Diseases', color='Country',
 fig.show()
 ```
 
-![png](Markdown/Event_Analysis_files/TopContries_Diarrheal_Asia.png)
+![Diarrheal_Asia](https://github.com/nnut21/Project_Dads5001_Data/blob/main/markdown/TopContries_Diarrheal_Asia.png)
 
 
 ```python
@@ -4516,7 +4572,7 @@ fig = px.line(df_top_5, x='Year', y='Diarrheal_Diseases', color='Country',
              title='Top 5 Countries in Africa by Diarrheal Diseases Deaths (1990-2019)')
 fig.show()
 ```
-![png](Markdown/Event_Analysis_files/TopContries_Diarrheal_Afarica.png)
+![Diarrheal_Af](https://github.com/nnut21/Project_Dads5001_Data/blob/main/markdown/TopContries_Diarrheal_Afarica.png)
 
 
 โรคท้องร่วงเป็นหนึ่งในสาเหตุสำคัญของการเสียชีวิตของประชากรโลก เนื่องจากการขาดความเข้าถึงของน้ำสะอาดและการมีสุขาภิบาลที่ดี ในช่วงปี 2000-2010 จึงมีการริเริ่มโครงการระดับโลกที่มุ่งเน้นการเพิ่มการเข้าถึงน้ำดื่มที่สะอาดเพื่อลดการเสียชีวิตจากโรคที่เกี่ยวกับน้ำ ส่งผลให้การเสียชีวิตจากโรคท้องร่วงลดลงอย่างมีนัยสำคัญ ซึ่งเห็นได้ดังกราฟข้างต้น
